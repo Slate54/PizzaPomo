@@ -206,6 +206,9 @@ footer h1{
 #pasta{
 	text-align: center;	
 }
+#pasta h2{
+	margin: 0 0 50px;
+}
 hr{
 	width: 100px;
 }
@@ -571,7 +574,7 @@ footer h1{
 }
 
 #alberto {
-	background-image: url("../img/pomo-about4.jpg");
+	background-image: url("../img/pomo-about-bg.jpg");
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -592,7 +595,7 @@ footer h1{
 	text-align: center;
 	color: #fff;
 	font-weight: 700;
-	font-size: 16px;
+	font-size: 30px;
 }
 #owner h3{
 	text-align: center;
@@ -657,6 +660,7 @@ footer h1{
 	font-size: 13px;
 	text-align: center;
 }
-
-
+#carousel{
+	padding: 50px 100px
+}
 
